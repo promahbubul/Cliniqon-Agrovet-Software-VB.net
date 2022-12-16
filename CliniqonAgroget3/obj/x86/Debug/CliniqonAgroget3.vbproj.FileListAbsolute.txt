@@ -1,0 +1,17 @@
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\bin\Debug\CliniqonAgroget3.exe
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\bin\Debug\CliniqonAgroget3.pdb
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\bin\Debug\CliniqonAgroget3.xml
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.Form1.resources
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.Login.resources
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.Resources.resources
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.vbproj.GenerateResource.Cache
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.exe
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.xml
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.pdb
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\bin\Debug\CliniqonAgroget3.exe.config
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\bin\Debug\Database1.sdf
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.User.resources
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.Product.resources
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.Invoice.resources
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.Dashboard.resources
+F:\10_FLUTTER\VB.net\CliniqonAgroget3\CliniqonAgroget3\obj\x86\Debug\CliniqonAgroget3.Dashboard1.resources
